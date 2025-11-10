@@ -1,8 +1,0 @@
-recommendation_id,display_name
-zero_inventory,Stockout Alert
-low_inventory,Low Inventory Alert
-excess_inventory,Excess Inventory Alert
-supply_action,Supply Action
-demand_action,Demand Action
-shipment_action,Shipment Action
-inventory_policy_action,Inventory Level Update

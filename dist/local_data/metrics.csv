@@ -1,8 +1,0 @@
-metric_id,metric_name,unit_value,financial_value
-demand,Total Demand,2400000,14400000
-inventory,Current Inventory,487000,2922000
-stockouts,Stockouts,12500,75000
-excess,Excess Inventory,45000,270000
-turns,Inventory Turns,4.9,4.9
-supply,Total Supply,2350000,14100000
-fillrate,Fill Rate,96.5,96.5
