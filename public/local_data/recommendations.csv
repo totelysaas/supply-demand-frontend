@@ -1,0 +1,13 @@
+id,source,name,type,severity,status,action_status,start_date,completion_date,created_date
+REC-001,recommendation,Increase safety stock for Widget A at DC2,low_inventory,high,open,,,2025-02-02
+REC-002,recommendation,Expedite shipment for CNC-TOOL-015 to DC1,supply_action,critical,accepted,scheduled,2025-02-05,,2025-02-02
+REC-003,recommendation,Reduce order quantity for Component B,excess_inventory,medium,open,,,2025-02-02
+REC-004,user_created_action,Order additional Bolt M8 units,supply_action,high,created,,,,2025-02-01
+REC-005,recommendation,Transfer inventory from DC1 to DC3 for Gasket Set,shipment_action,low,rejected,,,2025-02-02
+REC-006,recommendation,Update target inventory level for Material C,inventory_policy_action,medium,accepted,completed,2025-02-01,2025-02-04,2025-02-01
+REC-007,user_created_action,Review demand forecast for Widget A,demand_action,high,created,,,,2025-02-01
+REC-008,recommendation,Critical stockout alert for CNC-SPIN-001,zero_inventory,critical,open,,,2025-02-03
+REC-009,recommendation,Excess inventory detected for Component B,excess_inventory,low,open,,,2025-02-03
+REC-010,recommendation,Consolidate shipments for CNC-DRIVE-005,shipment_action,medium,open,,,2025-02-03
+REC-011,recommendation,Low inventory warning for Bolt M8,low_inventory,medium,open,,,2025-02-03
+REC-012,user_created_action,Adjust reorder point for CNC-CTRL-008,inventory_policy_action,low,created,,,,2025-01-28
